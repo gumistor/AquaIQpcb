@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name mod_pth_resistors)(type KiCad)(uri C:/Users/Krzysztof/Documents/KHo/kicad_libs/pcb/mod_pth_resistors)(options "")(descr ""))
+  (lib (name pcb)(type KiCad)(uri C:/Users/Krzysztof/Documents/KHo/kicad_libs/pcb.pretty)(options "")(descr ""))
+)
